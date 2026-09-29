@@ -1,0 +1,9 @@
+check,rows
+total_rows,9781673
+missing_state,0
+missing_specialty,0
+missing_hcpcs,0
+invalid_or_missing_services,0
+nonpositive_services,0
+invalid_or_missing_payment,0
+negative_payment,0
